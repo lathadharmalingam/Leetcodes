@@ -1,4 +1,4 @@
-'''check palindrome or not'''
+'''check palindrome or not using python'''
 class Solution(object):
     def isPalindrome(self, x):
        temp = str(x)
